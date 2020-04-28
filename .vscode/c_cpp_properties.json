@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/include",
+                "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/src",
+                "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/HID-master/src",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/GyverEncoder",
+                "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/GyverButton",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/variants/leonardo",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/baldmanua/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/include",
+                    "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/src",
+                    "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/HID-master/src",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/GyverEncoder",
+                    "c:/Users/baldmanua/Documents/PlatformIO/Projects/Sound Toy/lib/GyverButton",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/variants/leonardo",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/baldmanua/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/baldmanua/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40301",
+                "ARDUINO_AVR_LEONARDO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "USB_VID=0x2341",
+                "USB_PID=0x8036",
+                "USB_PRODUCT=\"Arduino Leonardo\"",
+                "USB_MANUFACTURER=\"Arduino\"",
+                "__AVR_ATmega32U4__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/baldmanua/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32u4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
